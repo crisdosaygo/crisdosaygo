@@ -15,7 +15,7 @@
 
 > Building at the speed of ideas – shipping secure remote browsers, novel hash algorithms, HN archives, crypto puzzles, cloud TUIs, and AI bridges. From 1-hour hacks to 7-year flagships, everything starts with an idea.
 
-💚 **[BrowserBox](https://browserbox.pro)** (flagship) – The original zero-trust secure remote browser. 7 years, 3.8k stars, >90% pre-AI craftsmanship. Cloud-native browsing-as-a-service.
+💚 **[BrowserBox](https://browserbox.io)** (flagship) – The original zero-trust secure remote browser. 7 years, 3.8k stars, >90% pre-AI craftsmanship. Cloud-native browsing-as-a-service.
 
 ## Current Projects
 
@@ -63,7 +63,7 @@
 
 [![GitHub](https://img.shields.io/badge/-crisdosaygo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/crisdosaygo)
 [![DOSAYGO](https://img.shields.io/badge/-dosaygo.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://dosaygo.com)
-[![BrowserBox](https://img.shields.io/badge/-browserbox.pro-44CC11?style=flat-square&logo=google-chrome&logoColor=white)](https://browserbox.pro)
+[![BrowserBox](https://img.shields.io/badge/-browserbox.io-44CC11?style=flat-square&logo=google-chrome&logoColor=white)](https://browserbox.io)
 [![BlueDot](https://img.shields.io/badge/-tui.bluedot.ink-00ADD8?style=flat-square&logo=go&logoColor=white)](https://tui.bluedot.ink)
 [![ai-chat.email](https://img.shields.io/badge/-ai--chat.email-000000?style=flat-square&logo=anthropic&logoColor=white)](https://ai-chat.email)
 
