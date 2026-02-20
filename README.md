@@ -35,7 +35,7 @@
 - 🧹 **[ai-lint](https://ai-lint.dosaygo.com)** – AI "taste & doctrine" files to teach your agents code that belongs: quality checks for semantics, not just syntax *(~3.5 hours)*
 - 🔢 **[git-prime](https://textonly.github.io/git-prime/)** – Mine git commit hashes for large primes by fuzzing a nonce annotation in the message *(~1 hour)*
 - 📰 **[Prime News](https://dosaygo-studio.github.io/prime-news/)** – A view of Hacker News that only shows items whose ID is a prime number *(~2 days)*
-- 📐 **[Pythagorean Proof](https://do-say-go.github.io/insights/)** – Interactive visual proof of the Pythagorean theorem: play with the squares-to-triangles-to-bigger-square mapping *(~1 day)*
+- 📐 **[Pythagorean Proof](https://do-say-go.github.io/insights/others/interactive_perigals_pythagorean.html)** – Interactive visual proof of the Pythagorean theorem: play with the squares-to-triangles-to-bigger-square mapping *(~1 day)*
 - 🖥️ **[Windows 98½](https://win9-5.com/demo)** – Impressionistic Windows 98 desktop with real web browsers: retro UI wrapper around BrowserBox using the new BrowserBox WebView Embedding API. Corporate showcase meets 90s nostalgia art *(5–6 weeks for the desktop; 7 years for BrowserBox)*
 - 📊 **[Structropy](https://github.com/DOSAYGO-STUDIO/structropy)** – Towards a metric of organization: adapts Shannon entropy toward structure, not just surprise. Loosely based on expected sorting time of new inserts *(months of thinking over years + ~1–2 days of coding)*
 
