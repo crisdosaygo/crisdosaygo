@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id6472099304)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
 - 📧 **[ai-chat.email](https://ai-chat.email)** - Email bridge to drive your CLI AI agents while away from your laptop
 - ☁️ **[BlueDot](https://tui.bluedot.ink)** - Universal cloud-console TUI to search and rent VPS across all major providers
 - 🔐 **[FIPSPad](https://fipspad.browserbox.io)** - Rust notepad with encryption-at-rest that enforces a FIPS-compliant system
@@ -55,13 +56,14 @@
 - **Growing the BrowserBox ecosystem** - Zero-trust remote browsing, the WebView Embedding API, and corporate integrations
 - **Exploring math & CS theory** - Structropy, LZW-X, RSA factoring games, and interactive geometric proofs
 - **Building for the HN community** - HackerBook, Prime News, backlink graphs, and unkillable archives
-- **Shipping AI tooling** - Finding where AI supercharges ideas fastest with tools like ai-chat.email and ai-lint
+- **Shipping AI tooling** - Finding where AI supercharges ideas fastest with tools like **WisprNote**, ai-chat.email, and ai-lint
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-crisdosaygo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/crisdosaygo)
 [![DOSAYGO](https://img.shields.io/badge/-dosaygo.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://dosaygo.com)
 [![BrowserBox](https://img.shields.io/badge/-browserbox.io-44CC11?style=flat-square&logo=google-chrome&logoColor=white)](https://browserbox.io)
+[![WisprNote](https://img.shields.io/badge/-Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/wisprnote/id6472099304)
 [![BlueDot](https://img.shields.io/badge/-tui.bluedot.ink-00ADD8?style=flat-square&logo=go&logoColor=white)](https://tui.bluedot.ink)
 [![ai-chat.email](https://img.shields.io/badge/-ai--chat.email-000000?style=flat-square&logo=anthropic&logoColor=white)](https://ai-chat.email)
 
@@ -71,17 +73,17 @@
 
 - **~8k+ GitHub stars** across BrowserBox, dn, chai, HackerBook, rain, and more
 - **BrowserBox:** 7 years of engineering, >90% pre-AI, zero-trust remote browsing at scale
-- Inventions spanning security, compression, hashing, archiving, cloud tooling, and interactive math
+- Inventions spanning security, compression, hashing, archiving, cloud tooling, interactive math, and on-device AI
 
 ### Philosophy
 
-> "Building at the speed of ideas" – I build tools to scratch my own itches and share them with the world. From a new hash algorithm to a retro desktop to a FIPS notepad to a hex crossword—if it's a cool idea, it ships.
+> "Building at the speed of ideas" – I build tools to scratch my own itches and share them with the world. From a new hash algorithm to a retro desktop to a local macOS AI dictaphone—if it's a cool idea, it ships.
 
 <details>
 <summary>Random Facts</summary>
 
 - Ship full tools in hours to days, not months
-- Work fluently across JavaScript, Go, Rust, C++, and Node.js
+- Work fluently across JavaScript, Go, Rust, C++, Swift, and Node.js
 - Incubated ideas for years before a 2-day coding sprint (LZW-X was an idea from 2013)
 - BrowserBox is >90% pre-AI code—proof that deep craftsmanship scales
 - Known to build interactive math visualizations just because the theorem is beautiful
