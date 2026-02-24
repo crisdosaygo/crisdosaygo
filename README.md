@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id6472099304)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
+- 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id1671480366?mt=12)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
 - 📧 **[ai-chat.email](https://ai-chat.email)** - Email bridge to drive your CLI AI agents while away from your laptop
 - ☁️ **[BlueDot](https://tui.bluedot.ink)** - Universal cloud-console TUI to search and rent VPS across all major providers
 - 🔐 **[FIPSPad](https://fipspad.browserbox.io)** - Rust notepad with encryption-at-rest that enforces a FIPS-compliant system
