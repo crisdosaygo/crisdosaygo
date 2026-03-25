@@ -22,8 +22,13 @@
 - 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id1671480366?mt=12)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
 - 📧 **[ai-chat.email](https://ai-chat.email)** - Email bridge to drive your CLI AI agents while away from your laptop
 - ☁️ **[BlueDot](https://tui.bluedot.ink)** - Universal cloud-console TUI to search and rent VPS across all major providers
-- 🔐 **[FIPSPad](https://fipspad.browserbox.io)** - Rust notepad with encryption-at-rest that enforces a FIPS-compliant system
 - 🖥️ **[Windows 98½](https://win9-5.com/demo)** - Impressionistic Windows 98 desktop UI wrapper powered by real secure browsers
+- 🪟 **[Windows 3.1](https://win9-5.com/demo-3.1/)** - Program Manager shell with tiled wallpaper, MDI group windows, and period chrome
+- 🍎 **[Macintosh System 7](https://win9-5.com/macos/)** - Classic Mac desktop with Finder, trash can, and single-button mouse charm
+- ⬛ **[NeXTSTEP](https://win9-5.com/nextstep/)** - Where Tim Berners-Lee built the first web browser in 1990
+- 💾 **[WebUSB Stick](https://win9-5.com/webusb/)** - The internet as a mounted drive; explore websites like files in a Win98 explorer
+- 📺 **[Glitch TV](https://win9-5.com/demos/glitch-tv/)** - Shared BrowserBox session with 6 preset channels and retro frame corruption
+- 🔐 **[FIPSPad](https://fipspad.browserbox.io)** - Rust notepad with encryption-at-rest that enforces a FIPS-compliant system
 - 🧹 **[ai-lint](https://ai-lint.dosaygo.com)** - AI "taste & doctrine" files for semantic, agent-driven code quality checks
 - 📡 **[UDP777](https://www.udp7777.com/)** - A simple, lightning-fast UDP pager written in Go
 - 🗜️ **[LZW-X](https://github.com/BrowserBox/LZW-X)** - Approximate-matching LZW compression algorithm
