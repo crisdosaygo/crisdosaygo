@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🔎 **[Model Tracker](https://model-tracker.com)** - Real-time community-driven AI model reputation tracker for finding which models are actually performing best today
 - 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id1671480366?mt=12)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
 - 📧 **[ai-chat.email](https://ai-chat.email)** - Email bridge to drive your CLI AI agents while away from your laptop
 - ☁️ **[BlueDot](https://tui.bluedot.ink)** - Universal cloud-console TUI to search and rent VPS across all major providers
