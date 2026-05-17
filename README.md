@@ -19,8 +19,8 @@
 
 ## Current Projects
 
-- 📖 **[Flipbook](https://flipbook.browserbox.io)** - Browser-based flipbook publishing and viewing for clean, shareable documents
 - 🎞️ **[Microfilm](https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?frame=1)** - WAR.GOV/UFO viewer as one giant reel for fast scrubbing, seeking, and playback of documents and videos ([HN](https://news.ycombinator.com/item?id=48104254))
+- 📖 **[Flipbook](https://flipbook.browserbox.io)** - Browser-based flipbook publishing and viewing for clean, shareable documents
 - 🔎 **[Model Tracker](https://model-tracker.com)** - Real-time community-driven AI model reputation tracker for finding which models are actually performing best today
 - 🎙️ **[WisprNote](https://apps.apple.com/us/app/wisprnote/id1671480366?mt=12)** - 100% offline, lightning-fast AI audio transcription and dictaphone for macOS
 - 📧 **[ai-chat.email](https://ai-chat.email)** - Email bridge to drive your CLI AI agents while away from your laptop
