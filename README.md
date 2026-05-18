@@ -2,6 +2,8 @@
 
 🌐 **DOSAYGO Founder** | ⚡ **Building at the speed of ideas** | 🔐 **Security · Math · AI · CLI**
 
+🆕 **[FreedomLang](https://github.com/DO-SAY-GO/freelang)** · **[freelang.dev](https://freelang.dev)** - A small AOT systems language: no libc, no VM, no hidden jobs.
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
