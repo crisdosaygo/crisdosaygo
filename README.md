@@ -2,8 +2,6 @@
 
 🌐 **DOSAYGO Founder** | ⚡ **Building at the speed of ideas** | 🔐 **Security · Math · AI · CLI**
 
-🆕 **[FreedomLang](https://github.com/DO-SAY-GO/freelang)** · **[freelang.dev](https://freelang.dev)** - A small AOT systems language: no libc, no VM, no hidden jobs.
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -21,6 +19,7 @@
 
 ## Current Projects
 
+- 🆕 **[FreedomLang](https://github.com/DO-SAY-GO/freelang)** · **[freelang.dev](https://freelang.dev)** - A small AOT systems language: no libc, no VM, no hidden jobs.
 - 🎞️ **[Microfilm](https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?frame=1)** - WAR.GOV/UFO viewer as one giant reel for fast scrubbing, seeking, and playback of documents and videos ([HN](https://news.ycombinator.com/item?id=48104254))
 - 📖 **[Flipbook](https://flipbook.browserbox.io)** - Browser-based flipbook publishing and viewing for clean, shareable documents
 - 🔎 **[Model Tracker](https://model-tracker.com)** - Real-time community-driven AI model reputation tracker for finding which models are actually performing best today
