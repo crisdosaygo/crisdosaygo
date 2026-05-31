@@ -49,7 +49,7 @@
 
 ### Pinned / Evergreen
 
-- 💚 **[BrowserBox](https://github.com/BrowserBox/BrowserBox)** - Secure remote browsing anywhere (3.8k+ ⭐)
+- 💚 **[BrowserBox](https://github.com/BrowserBox/BrowserBox)** - Secure remote browsing anywhere (3.9k+ ⭐)
 - 💾 **[dn](https://github.com/DO-SAY-GO/dn)** - Offline full-text search and archiving for Chromium (3.9k+ ⭐)
 - 🍵 **[chai](https://github.com/DO-SAY-GO/chai)** - Zero Trust vivid browser document viewing without downloads
 - 📚 **[HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook)** - Unkillable static offline archive of all of Hacker News
