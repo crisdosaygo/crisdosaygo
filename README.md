@@ -20,7 +20,7 @@
 ## Current Projects
 
 - 🆕 **[FreedomLang](https://github.com/DO-SAY-GO/freelang)** · **[freelang.dev](https://freelang.dev)** - A small AOT systems language: no libc, no VM, no hidden jobs.
-- 🛸 **[Hyper Grid Systems](https://hypergrid.systems)** - The war.gov/UFO Release archive as one giant 385k-frame microfilm reel — scrub, seek, and play documents and videos ([HN](https://news.ycombinator.com/item?id=48104254))
+- 🛸 **[Hyper Grid Systems](https://hypergrid.systems/war.gov-ufo-viewer/microfilm5?frame=4&page=5)** - The war.gov/UFO Release archive as one giant 385k-frame microfilm reel — scrub, seek, and play documents and videos 
 - 🎞️ **[Microfilm](https://microfilm.browserbox.io)** - Turn documents, videos, and whole archives into static, scrubbable viewers you share as a URL; live now — `curl -fsSL https://microfilm.browserbox.io/install.sh | bash` (formerly Flipbook)
 - 🎭 **[Duet Browser (dub)](https://duetbrowser.com/)** - A browser you tell what to do — the `dub` CLI drives real browsing from your terminal
 - 🔎 **[Model Tracker](https://model-tracker.com)** - Real-time community-driven AI model reputation tracker for finding which models are actually performing best today
