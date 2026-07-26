@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+- 🆕 🌳 **[TDF](https://trees.dosaygo.com)** - Tree Grower captures live browsing into portable `.tdf` archives; the free Tree Player replays them offline — dn, grown up
 - 🆕 **[FreedomLang](https://github.com/DO-SAY-GO/freelang)** · **[freelang.dev](https://freelang.dev)** - A small AOT systems language: no libc, no VM, no hidden jobs.
 - 🛸 **[Hyper Grid Systems](https://hypergrid.systems/war.gov-ufo-viewer/microfilm5?frame=4&page=5)** - The war.gov/UFO Release archive as one giant 385k-frame microfilm reel — scrub, seek, and play documents and videos 
 - 🎞️ **[Microfilm](https://microfilm.browserbox.io)** - Turn documents, videos, and whole archives into static, scrubbable viewers you share as a URL; live now — `curl -fsSL https://microfilm.browserbox.io/install.sh | bash` (formerly Flipbook)
@@ -51,7 +52,7 @@
 ### Pinned / Evergreen
 
 - 💚 **[BrowserBox](https://github.com/BrowserBox/BrowserBox)** - Secure remote browsing anywhere (3.9k+ ⭐)
-- 💾 **[dn](https://github.com/DO-SAY-GO/dn)** - Offline full-text search and archiving for Chromium (3.9k+ ⭐)
+- 🌳 **[TDF](https://github.com/DO-SAY-GO/tdf)** · **[trees.dosaygo.com](https://trees.dosaygo.com)** - Capture and replay the web as portable `.tdf` archives — successor to dn (3.9k+ ⭐)
 - 🍵 **[chai](https://github.com/DO-SAY-GO/chai)** - Zero Trust vivid browser document viewing without downloads
 - 📚 **[HackerBook](https://github.com/DOSAYGO-STUDIO/HackerBook)** - Unkillable static offline archive of all of Hacker News
 - ⚡ **[rain](https://github.com/DOSAYGO-STUDIO/rain)** - The fastest 128-bit and 256-bit hash under 140 lines of code
@@ -81,7 +82,7 @@
 
 ### Recognition
 
-- **~8k+ GitHub stars** across BrowserBox, dn, chai, HackerBook, rain, and more
+- **~8k+ GitHub stars** across BrowserBox, TDF (formerly dn), chai, HackerBook, rain, and more
 - **BrowserBox:** 7 years of engineering, >90% pre-AI, zero-trust remote browsing at scale
 - Inventions spanning security, compression, hashing, archiving, cloud tooling, interactive math, and on-device AI
 
